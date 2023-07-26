@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1690383416 source:d:\code blocks\embeded circle\datastructure\global\queue.c
+	"Queue.h"
+	"global.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1690383416 d:\code blocks\embeded circle\datastructure\global\queue.h
+	"global.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1690380305 d:\code blocks\embeded circle\datastructure\global\global.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1690385811 source:d:\code blocks\embeded circle\datastructure\global\stack.c
+	"Stack.h"
+	"global.h"
+
+1690385811 d:\code blocks\embeded circle\datastructure\global\stack.h
+	"global.h"
+	<stdio.h>
+	<stdlib.h>
+
+1690385731 source:d:\code blocks\embeded circle\datastructure\global\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"global.h"
+	"Stack.h"
+	"Queue.h"
+

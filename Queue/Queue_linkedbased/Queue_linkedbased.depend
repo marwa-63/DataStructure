@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1690206363 source:d:\code blocks\embeded circle\queue_linkedbased\queue.c
+	"Queue.h"
+
+1690206032 d:\code blocks\embeded circle\queue_linkedbased\queue.h
+	<stdio.h>
+	<stdlib.h>
+
+1690206363 source:d:\code blocks\embeded circle\queue_linkedbased\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+

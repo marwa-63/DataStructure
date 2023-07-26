@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1689856347 source:d:\code blocks\embeded circle\stack_linkedbased\stack.c
+	"Stack.h"
+
+1690205379 d:\code blocks\embeded circle\stack_linkedbased\stack.h
+	<stdio.h>
+	<stdlib.h>
+

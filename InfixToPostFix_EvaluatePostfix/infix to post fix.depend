@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1690369633 source:d:\code blocks\embeded circle\infix to post fix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"Stack.h"
+	"InfixToPostFix.h"
+	"EvaluatePostfix.h"
+
+1690371519 d:\code blocks\embeded circle\infix to post fix\stack.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1690227239 d:\code blocks\embeded circle\infix to post fix\global.h
+	<stdio.h>
+	<stdlib.h>
+
+1690068331 source:d:\code blocks\embeded circle\infix to post fix\q.c
+
+1690371807 source:d:\code blocks\embeded circle\infix to post fix\stack.c
+	"Stack.h"
+
+1690227468 source:d:\code blocks\embeded circle\infix to post fix\queue.c
+	"Queue.h"
+	"global.h"
+
+1690227239 d:\code blocks\embeded circle\infix to post fix\queue.h
+	"global.h"
+	<stdio.h>
+	<stdlib.h>
+
+1690277284 source:d:\code blocks\embeded circle\infix to post fix\infixtopostfix.c
+	"InfixToPostFix.h"
+	"Stack.h"
+
+1690247052 d:\code blocks\embeded circle\infix to post fix\infixtopostfix.h
+
+1690369130 d:\code blocks\embeded circle\infix to post fix\evaluatepostfix.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Stack.h"
+	"InfixToPostFix.h"
+	<math.h>
+
+1690370762 source:d:\code blocks\embeded circle\infix to post fix\evaluatepostfix.c
+	"EvaluatePostfix.h"
+

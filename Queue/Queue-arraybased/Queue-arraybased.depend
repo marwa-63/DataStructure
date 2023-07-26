@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1689846169 source:d:\code blocks\embeded circle\queue-arraybased\queue.c
+	"Queue.h"
+
+1690012833 d:\code blocks\embeded circle\queue-arraybased\queue.h
+	<stdio.h>
+	<stdlib.h>
+

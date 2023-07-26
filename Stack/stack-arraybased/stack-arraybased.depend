@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1690037656 source:d:\code blocks\embeded circle\stack-arraybased\stack.c
+	"Stack.h"
+
+1690299286 d:\code blocks\embeded circle\stack-arraybased\stack.h
+
+1690298069 source:d:\code blocks\embeded circle\stack-arraybased\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack.h"
+	"Evaluate.h"
+
+1690298114 source:d:\code blocks\embeded circle\stack-arraybased\evaluate.c
+	"Evaluate.h"
+
+1690298166 d:\code blocks\embeded circle\stack-arraybased\evaluate.h
+	"Stack.h"
+
